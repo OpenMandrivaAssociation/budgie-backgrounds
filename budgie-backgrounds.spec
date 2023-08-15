@@ -1,6 +1,6 @@
 Name:           budgie-backgrounds
-Version:        1.0
-Release:        2
+Version:        2.0
+Release:        1
 Summary:        The default background set for the Budgie Desktop
 License:        CC0-1.0
 Group:          System/Backgrounds
